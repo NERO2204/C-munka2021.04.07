@@ -1,0 +1,10 @@
+C:\Users\Imi\source\repos\Adatbazis\obj\Debug\Adatbazis.csprojAssemblyReference.cache
+C:\Users\Imi\source\repos\Adatbazis\obj\Debug\Adatbazis.Form1.resources
+C:\Users\Imi\source\repos\Adatbazis\obj\Debug\Adatbazis.Properties.Resources.resources
+C:\Users\Imi\source\repos\Adatbazis\obj\Debug\Adatbazis.csproj.GenerateResource.cache
+C:\Users\Imi\source\repos\Adatbazis\obj\Debug\Adatbazis.csproj.CoreCompileInputs.cache
+C:\Users\Imi\source\repos\Adatbazis\bin\Debug\Adatbazis.exe.config
+C:\Users\Imi\source\repos\Adatbazis\bin\Debug\Adatbazis.exe
+C:\Users\Imi\source\repos\Adatbazis\bin\Debug\Adatbazis.pdb
+C:\Users\Imi\source\repos\Adatbazis\obj\Debug\Adatbazis.exe
+C:\Users\Imi\source\repos\Adatbazis\obj\Debug\Adatbazis.pdb
